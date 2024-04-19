@@ -1,12 +1,12 @@
 # KSDDC
 
-数据集：https://hz-datasets.oss-cn-shenzhen.aliyuncs.com/model/KSDDC_datasets.rar
+1.数据集：https://hz-datasets.oss-cn-shenzhen.aliyuncs.com/model/KSDDC_datasets.rar
 
-Roberta：https://huggingface.co/hfl/chinese-roberta-wwm-ext-large
+2.Roberta：https://huggingface.co/hfl/chinese-roberta-wwm-ext-large
 
-大模型语义扩展：chat.openai.com
+3.大模型语义扩展：chat.openai.com
 
-baseline：
+4.baseline：
 
 （1）GAECDS、SVN、RF、GBM、XGB：https://github.com/junelyemm/GAECDS
 
