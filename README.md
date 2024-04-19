@@ -8,5 +8,7 @@ Roberta：https://huggingface.co/hfl/chinese-roberta-wwm-ext-large
 
 baseline：
 （1）GAECDS、SVN、RF、GBM、XGB：https://github.com/junelyemm/GAECDS
+
 （2）DeepDDs：https://github.com/Sinwang404/DeepDDs/tree/master
+
 （3）DeepSynergy：https://github.com/KristinaPreuer/DeepSynergy
